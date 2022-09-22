@@ -28,7 +28,7 @@ Nuestra empresa, surge como iniciativa familiar, a cargo de su fundador Cristian
 ---------------------------------------------------------------------------------------------------------------------------
 ![esto es una imagen](https://st.depositphotos.com/1636803/3872/v/600/depositphotos_38727865-stock-illustration-tools-vector-icons-set-on.jpg)
 
-> ***Público objetivo:***Nuestro e-commers esta enfocado a hombres y mujeres de 25 a 60 años dedicados a la construcción y las necesidades del hogar, dentron del territorio Argentino.
+> ***Público objetivo:***Nuestro e-commers esta enfocado a hombres y mujeres dentro del territorio Argentino de 25 a 60 años dedicados a la construcción y las necesidades del hogar.
 ******************************************************************************************************************************************************************************************************************************************************
 ***************************************************************************************************************************
 ***************************************************************************************************************************
