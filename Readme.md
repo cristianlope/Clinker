@@ -6,6 +6,9 @@
 ------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------
+***Historia***
+Nuestra empresa, surge como iniciativa familiar, a cargo de su fundador Cristian Lopez en el año 2022 en la localidad de Esquina, provincia de Corrientes. Inicialmente, nos dedicamos a la comercialización de artículos de ferretería y a fines dentro de la localidad de Esquina.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # ***Ferreteria Clinker***
 ## Venta de articulos de ferreteria 
 #### Listas:
