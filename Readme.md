@@ -28,7 +28,7 @@ Nuestra empresa, surge como iniciativa familiar, a cargo de su fundador Cristian
 ---------------------------------------------------------------------------------------------------------------------------
 ![esto es una imagen](https://st.depositphotos.com/1636803/3872/v/600/depositphotos_38727865-stock-illustration-tools-vector-icons-set-on.jpg)
 
-> ***Público objetivo:***Nuestro e-commers esta enfocado a consumidores de cualquier edad
+> ***Público objetivo:***Nuestro e-commers esta enfocado a la construcción y las necesidades del hogar, normalmente para el público en general aunque también existen dedicadas a profesionales.
 ******************************************************************************************************************************************************************************************************************************************************
 ***************************************************************************************************************************
 ***************************************************************************************************************************
