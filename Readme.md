@@ -41,12 +41,11 @@ Nuestra empresa, surge como iniciativa familiar, a cargo de su fundador Cristian
 
 ### **utilizaremos la siguientes tipografia:**
 
-- #### Tipografia principal: **Alata**
-- #### Tipografia secundaria: **karla**
-
+- [Tipografia principal](https://fonts.google.com/share?selection.family=Alata)
+- [Tipografia secundaria](https://fonts.google.com/share?selection.family=Karla:ital,wght@1,700)
 - ##### Fuente google
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## enlaces
+## Enlaces
 #### **Paleta de colores:**
 
 [Paleta de colores](https://colorhunt.co/palette/112b3c205375f66b0eefefef "paleta winter")
