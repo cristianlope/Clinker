@@ -50,9 +50,9 @@ Nuestra empresa, surge como iniciativa familiar, a cargo de su fundador Cristian
 
 [Paleta de colores](https://colorhunt.co/palette/112b3c205375f66b0eefefef "paleta winter")
 ##### enlaces paleta de colores colorhunt.co
-
-
- Enlace [FIGMA](https://www.figma.com/file/RSao6dFwa4XAShBX2URrGE/ecommerce-DecoIdeas?node-id=0%3A1).
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Figma
+ Enlace [FIGMA](https://www.figma.com/file/8q7hWkBjLi9EUoN1aQyoP8/Untitled?node-id=0%3A1).[]
 
 
 
